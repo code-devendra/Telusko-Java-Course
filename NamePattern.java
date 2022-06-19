@@ -1,4 +1,3 @@
-package assignment1;
 
 public class NamePattern {
     public static void main(String []args){
